@@ -1,18 +1,23 @@
-🚀 Habit Tracker with Data Visualization
-🧠 Project Overview
+# Habit Tracker with Data Visualization
 
-The Habit Tracker is a desktop application that allows users to:
+## 📌 Description
+A desktop application that helps users track daily habits, maintain streaks, and visualize their progress through charts.
 
-📅 Log daily habits
-🔥 Track streaks (consecutive days of completion)
-📊 Visualize progress through charts
-💾 Store data locally
-📤 Export habit data for further analysis
+## 🚀 Features
+- Add and manage habits
+- Daily completion logging
+- Automatic streak calculation
+- Data visualization with charts
+- Export data to CSV
+- Local JSON storage
 
-This project showcases skills in Python programming, data visualization, file handling, and user interface design.
+## 🛠️ Technologies
+- Python
+- Tkinter
+- Matplotlib
+- JSON
 
-🛠️ Technologies Used
-Python – Core programming language
-Tkinter – Graphical User Interface (GUI)
-Matplotlib – Data visualization
-JSON – Local data storage
+## ▶️ How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
