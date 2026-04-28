@@ -25,12 +25,6 @@ A desktop application that helps users track daily habits, maintain streaks, and
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](screenshot.png)
-
----
-
 ## ▶️ How to Run
 
 ```bash
