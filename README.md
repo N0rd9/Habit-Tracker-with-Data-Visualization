@@ -39,7 +39,7 @@ python main.py
 
 ```text
 .
-├── main.py
-├── requirements.txt
-└── README.md
+|-- main.py
+|-- requirements.txt
+`-- README.md
 ```
